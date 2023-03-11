@@ -1,1 +1,1 @@
-FROM gcr.io/arrikto/kubeflow/oidc-authservice:e236439
+FROM openebs/node-disk-manager:2.1.0
